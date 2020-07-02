@@ -1,0 +1,44 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Tata Consultancy Services Ltd
+    i18n: company_a
+  desc:
+    detail: After graduating in 2019, I started working as a full stack developer as part of a Java Digital Commercial portfolio at Tata Consultancy Services Ltd. Mentored other junior devs & provided KT on existing SQL databases to other teams within the company.
+    i18n: company_a_desc
+  date:
+    detail: Jul. 2019
+    i18n: company_a_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: WBSEDCL & WBSETCL (Vidyut Bhavan)
+    i18n: company_b
+  desc:
+    detail: As an intern I used MQTT & WebSocket to extract readings from electrical devices and store them in a MySQL Database. 
+    i18n: company_b_desc
+  date:
+    detail: Jan. 2018
+    i18n: company_b_date
+  job:
+    detail: Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: East Regional Testing Laboratory - CETE
+    i18n: company_b
+  desc:
+    detail: As an intern I created a small working sample of a Programmable Logic Controller - used in industrial automation. 
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2017
+    i18n: company_b_date
+  job:
+    detail: Intern
+    i18n: company_b_job
+  icon: fa-plus-square

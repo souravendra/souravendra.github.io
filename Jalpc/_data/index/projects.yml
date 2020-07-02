@@ -1,0 +1,29 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Twitter Clone App
+  i18n: jalpc
+  gh_user: souravendra
+  repo: Twitter-Clone-meow
+  img: /static/assets/img/landing/twitterclonemeow.png
+  desc: Twitter for cats using JavaScript! Nodejs, Express, MongoDB used for backend server.
+
+- name: E-commerce App
+  i18n: cpython
+  gh_user: souravendra
+  repo: E-commerceApp
+  img: /static/assets/img/landing/ecom.png
+  desc: E-commerce application built using Java. SpringBoot, PostGreSQL used.
+
+- name: Path Finder
+  i18n: google
+  gh_user: souravendra
+  repo: Path-finder
+  img: /static/assets/img/landing/path.png 
+  desc: Path-finding visualizer using React, implements Dijkstra's algorithm to find the shortest path.
+
+- name: Real Time IDE
+  i18n:
+  url: ideRealTime.html
+  img: /static/assets/img/landing/ide.png
+  desc: Real Time IDE to parse HTML, built using JavaScript for my own benefit
