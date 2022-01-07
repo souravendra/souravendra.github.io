@@ -1,6 +1,6 @@
 # blog page sections
-- name: Opinions
-  href: /blog/
+- name: github.com/souravendra
+  href: github.com/souravendra
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 # - name: Python
