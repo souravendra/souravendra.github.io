@@ -1,6 +1,35 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Warehouse Now
+    i18n: company_a
+  desc:
+    detail: Designed and developed internal tools for tracking client revenue & expenditure and calculating ROI and projected revenue to facilitate business decisions. Also mentored peers on React, Next, Node, SQL.
+    i18n: company_a_desc
+  date:
+    detail: May. 2021
+    i18n: company_a_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Self-employed 
+    i18n: company_a
+  desc:
+    detail: I attempted to build a product with a group of passionate people. Mentored interns on Google Cloud, SQL, Javascript.
+    i18n: company_a_desc
+  date:
+    detail: Nov. 2020
+    i18n: company_a_date
+  job:
+    detail: Software Development Engineer - MERN
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: Tata Consultancy Services Ltd
     i18n: company_a
   desc:
@@ -13,7 +42,6 @@
     detail: Full Stack Developer
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
 
 - name:
     detail: WBSEDCL & WBSETCL (Vidyut Bhavan)
